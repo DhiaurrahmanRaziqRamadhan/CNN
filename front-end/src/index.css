@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* .result {
+    @apply fixed top-0 left-full w-full h-full flex flex-col pt-3 items-center bg-black/[.6] duration-300
+  }
+
+  .result.hasPhoto {
+    @apply left-0
+  } */
+}
